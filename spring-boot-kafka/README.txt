@@ -1,0 +1,1 @@
+http://blog.anilot.tk/2014/08/06/Set-Up-Kafka-On-Windows/
